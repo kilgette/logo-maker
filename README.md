@@ -8,7 +8,9 @@ To install the dependancies for the application, please run
 To invoke the app, please run
 `node index.js`
 
-![Here is a screenshot of the page](./assets/screenshot.jpg)
+A walk-through video demonstrating the app can be viewed here:
+https://drive.google.com/file/d/1VRjmbrBjJ0w_FCxpkPdFnmY8WvcXYWXH/view
+
 
 Objective: Build a Node.js command-line app that takes in user input to generate a logo
 and save it as an SVG file based on the user's color, shape and logo text inputs. 
